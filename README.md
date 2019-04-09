@@ -1,0 +1,2 @@
+# Diederick-Cock
+Gitarist Composer
